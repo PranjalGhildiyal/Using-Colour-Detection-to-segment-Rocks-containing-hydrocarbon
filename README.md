@@ -26,8 +26,9 @@ Only the rock types which have a characteristic high carbon content would be con
 ## Colour Detection:
 Colour Detection for Components in the given sample is applied.
 >![Colour Detection](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Colour%20Detection.png)
+## Coloue Extraction
 
-### Vitrinite
+### 1. Vitrinite
 ```diff
 # We know that Vitrinite is grey(from the sample)
 ```
