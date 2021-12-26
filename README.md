@@ -25,7 +25,7 @@ Only the rock types which have a characteristic high carbon content would be con
 
 ## Colour Detection:
 Colour Detection for Components in the given sample is applied.
->![2](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Sample.png)
+>![Colour Detection](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Colour%20Detection.png)
 
 ### Vitrinite
 ```diff
@@ -40,5 +40,9 @@ Colour Detection for Components in the given sample is applied.
 |![#f03c15](https://via.placeholder.com/15/808080/000000?text=+) | 	gray / grey | #808080| rgb(128,128,128) |
 |![#f03c15](https://via.placeholder.com/15/696969/000000?text=+) | 	dimgray / dimgrey | #696969 | rgb(105,105,105)|
 >These shades of grey are used to detect Vitrinite
-#### 
+
+#### Using mask to extract grey Vitrinite
+>A mask was applied using [OpenCV](https://opencv.org/) to extract the grey portion of the image.
+>![Mask](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Grey%20Mask-Vitrinite.png)
+>The grey portion shows vitrinite and thus, a possibility of hydrocarbon presence.
 
