@@ -44,6 +44,6 @@ Colour Detection for Components in the given sample is applied.
 
 #### Using mask to extract grey Vitrinite
 >A mask was applied using [OpenCV](https://opencv.org/) to extract the grey portion of the image.
->![Mask](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Grey%20Mask-Vitrinite.png)
+>![Mask](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Mask-%20Vitrinite.png)
 >The grey portion shows vitrinite and thus, a possibility of hydrocarbon presence.
 
