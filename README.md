@@ -7,7 +7,7 @@ Only the rock types which have a characteristic high carbon content would be con
 
 ## Sample
 >![tiles](https://github.com/PranjalGhildiyal/Using-Colour-Detection-to-segment-Rocks-containing-hydrocarbon/blob/main/Accessories/Sample.png)
->This is a section of rock from the Sayal Formation. Scale on top right corner.
+>This is a section of rock from the Sayal Formation. Scale on top left corner.
 >The data is unlabeled initially for any model to work on.
 
 
