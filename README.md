@@ -4,4 +4,5 @@ Applying colour detection and masks to rock sections to detect the possible oil 
 Data consists of images of unlabeled rock sections.
 The rock sections can be used to predict the possibility and the quantity of hydrocarbons present in the formation.
 Only the rock types which have a characteristic high carbon content would be considered as possible hydrocarbon bering zones.
+
 ![tiles](https://github.com/PranjalGhildiyal/Fault-Segmentation-on-Seismic-Data-Using-CNNs/blob/main/1.png)
